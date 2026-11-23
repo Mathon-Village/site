@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.mathon.org.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Mathon - Website</title>
+ <link>https://www.mathon.org.uk/taxonomy/term/15/0</link>
+ <description>Please use this forum to post suggestions and feedback on the website.</description>
+ <language>en</language>
+</channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.mathon.org.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Mathon - Car sharing</title>
+ <link>https://www.mathon.org.uk/taxonomy/term/12/0</link>
+ <description>A forum to arrange car &amp; lift sharing for shopping trips, etc.</description>
+ <language>en</language>
+<item>
+ <title>Cradley Mathon &amp; Storridge Support Group</title>
+ <link>https://www.mathon.org.uk/forum/car-sharing/cradley-mathon-storridge-support-group</link>
+ <description>&lt;p&gt;Cradley Mathon &amp;amp; Storridge Support Group offers transport to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;doctor&#039;s surgery&lt;/li&gt;
+&lt;li&gt;hospital, dentist&lt;/li&gt;
+&lt;li&gt;optician&lt;/li&gt;
+&lt;li&gt;chiropodist etc.&lt;/li&gt;
+&lt;li&gt;to do shopping&lt;/li&gt;
+&lt;li&gt;and collect prescriptions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A contribution towards petrol is requested (20p per mile from drivers home - min £3) plus car parking charges if applicable.&lt;/p&gt;
+&lt;p&gt;Enquiries to Eileen Vockins on 01886 884366&lt;/p&gt;
+</description>
+ <comments>https://www.mathon.org.uk/forum/car-sharing/cradley-mathon-storridge-support-group#comments</comments>
+ <category domain="https://www.mathon.org.uk/taxonomy/term/12">Car sharing</category>
+ <pubDate>Sun, 16 Mar 2008 00:47:53 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">76 at https://www.mathon.org.uk</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.mathon.org.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Mathon - General</title>
+ <link>https://www.mathon.org.uk/taxonomy/term/11/0</link>
+ <description>A forum for general disucssion.</description>
+ <language>en</language>
+<item>
+ <title>Events in Mathon</title>
+ <link>https://www.mathon.org.uk/forum/general/events-mathon</link>
+ <description>&lt;p&gt;The children enjoyed the carnival&lt;/p&gt;
+</description>
+ <comments>https://www.mathon.org.uk/forum/general/events-mathon#comments</comments>
+ <category domain="https://www.mathon.org.uk/taxonomy/term/11">General</category>
+ <pubDate>Sun, 08 Apr 2012 19:34:43 +0000</pubDate>
+ <dc:creator>angieblood</dc:creator>
+ <guid isPermaLink="false">338 at https://www.mathon.org.uk</guid>
+</item>
+<item>
+ <title>Mathon  events in the 70s</title>
+ <link>https://www.mathon.org.uk/forum/general/mathon-events-70s</link>
+ <description>&lt;p&gt;The children staged Snow White.&lt;/p&gt;
+</description>
+ <comments>https://www.mathon.org.uk/forum/general/mathon-events-70s#comments</comments>
+ <category domain="https://www.mathon.org.uk/taxonomy/term/11">General</category>
+ <enclosure url="https://www.mathon.org.uk/sites/www.mathon.org.uk/files/mathon_snow_white.jpg" length="210205" type="image/jpeg" />
+ <pubDate>Sun, 08 Apr 2012 19:26:30 +0000</pubDate>
+ <dc:creator>angieblood</dc:creator>
+ <guid isPermaLink="false">337 at https://www.mathon.org.uk</guid>
+</item>
+<item>
+ <title>Town House Farm</title>
+ <link>https://www.mathon.org.uk/forum/general/town-house-farm</link>
+ <description>&lt;p&gt;We are not (yet) residents of Mathon but are interested in Town House Farm which is being auctioned at the end of July. This seems like a beautiful set of buildings which are worthy of restoration. We would like to hear from anyone with any local knowledge of the history of the farm, especially the fire which must have occurred in the barn immediately to the rear of the farmhouse. Does anyone have any old photographs? We would like to know what the original windows were like. Neil and Judith Walker.&lt;/p&gt;
+</description>
+ <comments>https://www.mathon.org.uk/forum/general/town-house-farm#comments</comments>
+ <category domain="https://www.mathon.org.uk/taxonomy/term/11">General</category>
+ <pubDate>Fri, 01 Jul 2011 09:32:48 +0000</pubDate>
+ <dc:creator>muchtywalker</dc:creator>
+ <guid isPermaLink="false">331 at https://www.mathon.org.uk</guid>
+</item>
+<item>
+ <title>Dolefield Cottages</title>
+ <link>https://www.mathon.org.uk/forum/general/dolefield-cottages-0</link>
+ <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Information i have on Dolefield cottages. &lt;/p&gt;
+&lt;p&gt;Regards,&lt;/p&gt;
+&lt;p&gt;8587&lt;/p&gt;
+</description>
+ <comments>https://www.mathon.org.uk/forum/general/dolefield-cottages-0#comments</comments>
+ <category domain="https://www.mathon.org.uk/taxonomy/term/11">General</category>
+ <enclosure url="https://www.mathon.org.uk/sites/www.mathon.org.uk/files/Dole_Field_Cottage_Bank_Farm_Sale.jpg" length="344161" type="image/jpeg" />
+ <pubDate>Mon, 25 May 2009 16:15:45 +0000</pubDate>
+ <dc:creator>8587</dc:creator>
+ <guid isPermaLink="false">291 at https://www.mathon.org.uk</guid>
+</item>
+<item>
+ <title>Dolefield Cottages</title>
+ <link>https://www.mathon.org.uk/forum/general/dolefield-cottages</link>
+ <description>&lt;p&gt;&lt;a href=&quot;https://www.mathon.org.uk/forum/general/dolefield-cottages&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>https://www.mathon.org.uk/forum/general/dolefield-cottages#comments</comments>
+ <category domain="https://www.mathon.org.uk/taxonomy/term/11">General</category>
+ <pubDate>Sun, 24 Aug 2008 07:14:52 +0000</pubDate>
+ <dc:creator>Dolefield</dc:creator>
+ <guid isPermaLink="false">270 at https://www.mathon.org.uk</guid>
+</item>
+</channel>
+</rss>
